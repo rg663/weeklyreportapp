@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
-import __version__
+from weeklyreportapp import __version__
 
 setup(
     name='weeklyreportapp',
-    version='1.0',
+    version=__version__
     url='https://github.com/rg663/weeklyreportapp',
     packages=find_packages(),
 )
