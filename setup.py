@@ -4,5 +4,5 @@ setup(
     name='weeklyreportapp',
     version='1.0',
     url='https://github.com/rg663/weeklyreportapp',
-    packages=['weeklyreportapp']
+    packages=find_packages(),
 )
