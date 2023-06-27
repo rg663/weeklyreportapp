@@ -1,1 +1,1 @@
-default_app_config = "coldfront.core.weeklyreportapp.apps.WeeklyreportappConfig"
+default_app_config = "coldfront.plugins.weeklyreportapp.apps.WeeklyreportappConfig"
